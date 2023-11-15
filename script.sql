@@ -150,7 +150,3 @@ BEGIN
     RAISE NOTICE '%', resultado;
 END;
 $$ LANGUAGE plpgsql;
-
-
- 
-
